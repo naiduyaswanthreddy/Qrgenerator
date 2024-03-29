@@ -1,5 +1,4 @@
-# Qrgenerator
-generating a QR code using python 
+
 
 
 # QR Code Generator
